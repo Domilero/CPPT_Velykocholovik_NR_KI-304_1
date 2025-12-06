@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Velykochlovik.Lab6","l":"CleaningTool"},{"p":"KI304.Velykochlovik.Lab6","l":"HouseholdBag"},{"p":"KI304.Velykochlovik.Lab6","l":"HouseholdBagDriver"},{"p":"KI304.Velykochlovik.Lab6","l":"HouseholdItem"},{"p":"KI304.Velykochlovik.Lab6","l":"Product"}];updateSearchResults();

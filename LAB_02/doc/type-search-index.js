@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Velykochlovik.Lab2","l":"Dog"},{"p":"KI304.Velykochlovik.Lab2","l":"DogApp"},{"p":"KI304.Velykochlovik.Lab2","l":"Muzzle"},{"p":"KI304.Velykochlovik.Lab2","l":"Paw"},{"p":"KI304.Velykochlovik.Lab2","l":"Tail"}];updateSearchResults();
